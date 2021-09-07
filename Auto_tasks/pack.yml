@@ -1,0 +1,8 @@
+- name: INSTALL PACKAGES
+    apt:
+      name:
+        - htop
+        - mc
+        - tmux
+
+
