@@ -1,7 +1,9 @@
 - name: install packages
   apt:
-    name: htop
-
+    name: 
+       - htop
+       - mc
+       - tmux
 
 
 
