@@ -5,6 +5,10 @@
        - mc
        - tmux
 
+- name: install packages
+  apt:
+    name:
+       - update
 
 
 
